@@ -2,13 +2,13 @@
     "name": "laravel-admin-ext/amap-latlong",
     "description": "description...",
     "type": "library",
-    "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/laravel-admin-ext/amap-latlong",
+    "keywords": ["laravel-admin", "latlong"],
+    "homepage": "https://github.com/binbin8730/amap-latlong.git",
     "license": "MIT",
     "authors": [
         {
-            "name": "your name",
-            "email": "your email"
+            "name": "wenbin",
+            "email": "905613455@qq.com"
         }
     ],
     "require": {
