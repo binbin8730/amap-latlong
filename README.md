@@ -9,6 +9,12 @@
 2、修改加载地图逻辑，升级到最新版本 1.4.15
 3、修复默认没有添加坐标值，显示地图空白问题
 
+## Install
+
+```bash
+composer require binbin8730/amap-latlong:*
+```
+
 
 ## Configuration
 
@@ -40,7 +46,7 @@
 
 ## Usage
 
-Suppose you have two fields `latitude` and `longitude` in your table that represent latitude and longitude, then use the following in the form:
+字段 `latitude` and `longitude` 分别表示纬度和经度，然后使用以下格式:
 
 ```php
 $form->amap_latlong('latitude', 'longitude', 'Position');
